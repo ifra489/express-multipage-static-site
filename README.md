@@ -111,9 +111,9 @@ MIT License
 ## 👨‍💻 Author
 
 Ifra Malik
-https://github.com/ifra489
+
 
 ---
 
 ⭐ If you like this project, give it a star!
-EOF
+
